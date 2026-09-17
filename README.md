@@ -72,5 +72,6 @@ Url: https://youtu.be/xjgRr8oeGkQ
 ---
 
 ## 👨‍💻 Author
-**Abtahi Islam** – *CSE Student, American International University – Bangladesh*  
-📧 *23-50434-1@student.aiub.edu*
+**Osama Mobin Zuhar** – *CSE Student, American International University – Bangladesh* 
+📧 *osamamobin25771@gmail.com*
+📧 *22-49938-3@student.aiub.edu*
